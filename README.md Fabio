@@ -9,4 +9,6 @@ fabioigti2021/fabioigti2021 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-https://servicodados.ibge.gov.br/api/v1/localidades/distritos?orderBy=mulheres 20 a 40
+https://servicodados.ibge.gov.br/api/v1/localidades/distritos?orderBy=IBGE2020,mulheres 
+
+20 a 40
